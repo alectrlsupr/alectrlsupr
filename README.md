@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alectrlsupr&label=Profile%20views&color=0e75b6&style=flat" alt="alectrlsupr" /> </p>
 
-- 🔭 I’m currently working on [OMB! (OhMyBike!)](www.ohmybike.cl)
+- 🔭 I’m currently working on [OhMyBike!](www.ohmybike.cl)
 
 - 🌱 I’m currently learning **Javascript, Javascript, more Javascript, VUEjs and technical SEO**
 
